@@ -1,4 +1,4 @@
-# WeatherConditionApp
+# Weather Condition App
 ## Overview
 This project is a Python-based weather application developed for the COMP1002 - Advanced Python course. It aims to real-time weather data for a user-specified city using an external API and displays the current temperature, humidity, and general weather conditions. The goal of this project is to apply advanced Python concepts, work with RESTful APIs, and process JSON data in a practical setting.
 
