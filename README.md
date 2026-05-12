@@ -23,7 +23,8 @@ To run this project locally, follow these steps:
 
 -   Install the required external libraries by running the following command in your terminal/command prompt:
 
-  pip install matplotlib
+  pip install matplotlib  
+  
   pip instal request
 
   ## Technologies Used
